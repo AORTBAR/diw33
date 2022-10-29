@@ -26,3 +26,10 @@ footer{
 .a{
     font-weight: bold;
 }
+.cursiva{
+    font-style: italic;
+}
+.pie{
+    text-align: center;
+    font-weight: bold;
+}

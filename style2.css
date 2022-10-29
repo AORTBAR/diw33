@@ -1,0 +1,82 @@
+h1{
+  text-align: center;
+}
+
+.navegacion {
+  position: fixed;
+  padding: 10px;
+  font-size: xx-large;
+  margin-bottom: 20em;
+}
+header{
+  margin-bottom: 20px;
+  background-color: aquamarine;
+}
+
+.cultura{
+  background-color: darkgreen;
+  font-size: 10px;
+}
+/* .cultura p{ */
+  /* font-size: 0.5 em; */
+/* } */
+.cultura img{
+    width: 800px;
+    margin: auto;
+    display: block;
+    border-radius: 15em;
+}
+.cultura p{
+  font-size: 4em;
+}
+
+.cultura h2{
+  font-size: 6em;
+  text-align: center;
+}
+
+.deporte img{
+  width: 500px;
+  margin: auto;
+  display: block;
+  border-radius: 1em;
+}
+
+.deporte{
+  background-color: darkolivegreen;
+}
+
+.encabezado a{
+  text-decoration: none;
+  display: block;
+  font-size: 5em;
+  font-weight: bolder;
+}
+
+.encabezado h1{
+  color: orange;
+  background-color: darkcyan;
+}
+
+
+.deporte p{
+  font-size: 50px;
+}
+
+.subir a {
+  text-decoration: none;
+  color: coral;
+  font-size: 30px;
+}
+
+.deporte h2{
+  text-align: center;
+  font-size: 6em;
+}
+
+
+
+
+
+
+
